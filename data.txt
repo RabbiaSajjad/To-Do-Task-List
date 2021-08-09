@@ -1,0 +1,25 @@
+{
+    "listID":10,
+    "noOfTasks":1,
+    "creationDateTime":"2020-01-01 10:10:10",
+    "lastUpdateDateTime":"2020-01-01 10:10:10"
+}
+
+{
+    "userID":17,
+    "fullname":"Rabbiaa",
+    "email": "me@temp.dev",
+    "password":"bingo",
+    "DOB":"2020-01-01"
+
+}
+
+{
+    "taskID":4,
+    "listID":15,
+    "title":"Work Progress",
+    "description":"Learn REST API",
+    "dueDateTime":"2020-01-01 10:10:10",
+    "completionDateTime":"2020-01-01 10:10:10",
+    "completeStatus":false
+}
